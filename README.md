@@ -1,1 +1,1 @@
-# Arduino-USB-libusb---LUFA-
+# LUFA Library - Arduino USB Firmware
